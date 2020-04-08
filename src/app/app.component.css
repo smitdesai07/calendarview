@@ -1,0 +1,48 @@
+h3 {
+    margin: 0 0 10px;
+}
+  
+pre {
+    background-color: #f5f5f5;
+    padding: 15px;
+}
+
+.btn-group {
+      background-color: darkorchid;
+      flex-wrap: nowrap;
+      display: flex;
+      color: white;
+      align-content: space-between;
+}
+
+.row {
+      display: inline-flex;
+      text-align: center;
+      align-content: space-between;
+}
+
+.endd {
+      display: block;
+}
+
+.screen {
+      width: fit-content;
+      padding-left: 10px;
+      padding-top: 10px;
+}
+  
+.coll {
+      border: 1px solid lightpink;
+}
+
+.btn-outline-secondary {
+      color: white;
+      background-color: #0062cc;
+      border: black solid 2px;
+}
+  
+.btn-primary {
+    color: white;
+    background-color: blueviolet;
+    border: black solid 2px;
+}
